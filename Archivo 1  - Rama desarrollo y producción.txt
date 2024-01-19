@@ -1,6 +1,3 @@
 Este el archivo 1 de la Rama Desarrollo.
 
 SE INICIA EL DESARRROLLO DE SOFTWARE
-
-const edad = 50
-const nombre = 'PEPE'
