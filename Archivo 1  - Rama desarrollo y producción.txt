@@ -1,3 +1,8 @@
 Este el archivo 1 de la Rama Desarrollo.
 
 SE INICIA EL DESARRROLLO DE SOFTWARE
+
+const edad = 49
+const nombre = 'PIPITO PIPON
+
+/* UN COMENTARIO */
